@@ -1,0 +1,4 @@
+.idea
+/.docker/grafana
+/.docker/prometheus/data
+.env
